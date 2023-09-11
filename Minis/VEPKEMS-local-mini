@@ -1,1 +1,0 @@
-(()=>{r=new XMLHttpRequest();r.open('GET','https://raw.githubusercontent.com/mmkgz/Vepkems/main/VEPKEMS-local.html',false);r.send(null);document.body.innerHTML='';document.write(r.responseText);})()
