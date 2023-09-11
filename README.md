@@ -15,7 +15,7 @@
 <hr>
 <h2>Looking to save a few bytes?</h2>
 <h3>You can use minified versions of these scripts that may be more laggy, but save on bytes significantly. (Not that the main files even take that much space...)</h3>
-<br><h3>VEPKEMS Local Mini: 153 bytes</h3><br>
+<br><h3>VEPKEMS Local Mini: 129 bytes</h3><br>
 <h3>VEPKEMS Data Mini: 218 bytes</h3>
 
 >data:text/html;base64,PHNjcmlwdD4oKCk9PntyPW5ldyBYTUxIdHRwUmVxdWVzdCgpO3Iub3BlbignR0VUJywnaHR0cHM6Ly90aW55dXJsLmNvbS8zeGo4aDJmOCcsZmFsc2UpO3Iuc2VuZChudWxsKTtkb2N1bWVudC53cml0ZShyLnJlc3BvbnNlVGV4dCk7fSkoKTwvc2NyaXB0Pg==
