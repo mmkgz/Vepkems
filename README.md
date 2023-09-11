@@ -3,7 +3,7 @@
 
 <h3>Local Edition: Runs as a file on your computer, harder to block.</h3>
 <h3>Download this file and open it in order to play most games using a fake link!</h3>
-<h3>831 bytes</h3>
+<h3>833 bytes</h3>
 <br>
 
 <h3>Data Edition: Runs as a webpage encoded in Base64 to hide the link.</h3>
